@@ -6,7 +6,7 @@ After a few months I downloaded a report (add link) from <a href='https://www.se
 
 *Insert ugly graphic
 
-The first finding is that in the year 2021 printing is still a headache and human beings are not able yet to defeat printers, the second case was related with an app used to scann articles and the third tag was "others"🤡. However, talking to people, they mentioned that they didn-t report all of their IT problem because they didn't know who to ask for help, nor how to create a ticket on the company's intranet.
+The first finding is that in the year 2021 printing is still a headache and human beings are not able yet to defeat printers, the second case was related with an app used to scnn articles and the third tag was "others"🤡. However, talking to people, they mentioned that they didn't report all of their IT problem because they didn't know who to ask for help, nor how to create a ticket on the company's intranet.
 
 Here are my actions based on this analysis:
 
