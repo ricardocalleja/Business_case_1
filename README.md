@@ -13,8 +13,9 @@ Here are my actions based on this analysis:
 1. Creation and distribution of online trainning covering:
 
 1.1 Solutions to all incidents users could quickly solved independently.
+
 1.2 How to report problems on the IT website. 
 
-2.The one I am most proud of was the identification of the root cause of an specific recurring incident (a bug between SAP and the retail back office software which affected data replication) 
+2. The one I am most proud of was the identification of the root cause of an specific recurring incident (a bug between SAP and the retail back office software which affected data replication) .
 
-3. Contributing with documenting main procedures was  
+3. Contributing with documenting main procedures.
